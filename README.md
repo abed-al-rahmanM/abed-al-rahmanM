@@ -16,12 +16,18 @@
 
 <hr>
 
-### 🛠 Languages & Tools I’m learning
+### 👋 About Me
+- I’m a **Computer Science student at Lebanese University**  
+- Learning **C, C++**, and **OOP concepts**  
+- Basics of **HTML & CSS**  
+- Using **VS 2022 Preview** from Microsoft  
+- Exploring **GNU/Linux**  
+- Ask me about **coding, PC building, or movies**  
+- Find me on Telegram: [SP-XD](https://t.me/spxd007)  
 
-- **C, C++** (CS50 Intro to CS)  
-- **OOP concepts**  
-- **HTML & CSS basics**  
-- **VS 2022 Preview** (Microsoft)  
+---
+
+### 🛠 My Learning Tools
 
 ```dart
 // Beginner-friendly overview
