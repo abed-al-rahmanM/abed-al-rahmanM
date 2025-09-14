@@ -3,9 +3,8 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<details>
 <summary>Busy Coding.</summary>
-</details>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange)
 
@@ -16,8 +15,7 @@
 ### 👋 About Me
 - I’m a **Computer Science student at Lebanese University**  
 - Learning **C, C++**, and **OOP concepts**  
-- Basics of **HTML & CSS**  
-- Ask me about **coding, PC building, or movies**  
+- Basics of **HTML & CSS**   
 
 ---
 
