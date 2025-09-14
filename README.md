@@ -6,7 +6,6 @@
 <summary>Busy Coding.</summary>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange)
 
 </div>
 
