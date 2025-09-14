@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <details>
-<summary>🎵 Busy coding & vibing to</summary>
+<summary>🎵 Currently coding & listening to music</summary>
 <p>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </p>
@@ -20,16 +20,15 @@
 
 - **C, C++** (CS50 Intro to CS)  
 - **OOP concepts**  
-- **VSCode** (blue & purple theme)  
-- **Flutter & Web Development** (learning)  
+- **HTML & CSS basics**  
+- **VS 2022 Preview** (Microsoft)  
 
 ```dart
 // Beginner-friendly overview
 class Me {
   const myLearning = {
-    "Languages" : {"C", "C++"},
+    "Languages" : {"C", "C++", "HTML", "CSS"},
     "Concepts" : {"OOP", "CS50 Intro to CS"},
-    "Tools" : {"VSCode"},
-    "CurrentlyLearning" : {"Flutter", "Web Development"}
+    "Editor" : {"VS 2022 Preview"}
   };
 }
