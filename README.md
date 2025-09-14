@@ -11,10 +11,10 @@
 
 <hr>
 
-### 👋 About Me
-- I’m a **Computer Science student at Lebanese University**  
-- Learning **C, C++**, and **OOP concepts**  
-- Basics of **HTML & CSS**   
+### 👋 Hi — I'm Abdel Rahman Meknass  
+🎓 I am a **student at Lebanese University** (Computer Science).  
+📚 Currently focused on learning programming foundations with **C** and **C++ OOP**.  
+💡 Started my journey with **CS50: Introduction to Computer Science** and still improving step by step. 
 
 ---
 
