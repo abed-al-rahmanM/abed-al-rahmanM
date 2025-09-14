@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <details>
-<summary>🎵 Currently coding & listening to music</summary>
+<summary>Busy Coding.</summary>
 <p>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </p>
@@ -20,10 +20,7 @@
 - I’m a **Computer Science student at Lebanese University**  
 - Learning **C, C++**, and **OOP concepts**  
 - Basics of **HTML & CSS**  
-- Using **VS 2022 Preview** from Microsoft  
-- Exploring **GNU/Linux**  
 - Ask me about **coding, PC building, or movies**  
-- Find me on Telegram: [SP-XD](https://t.me/spxd007)  
 
 ---
 
